@@ -3,13 +3,6 @@
   <a href="https://nicky-tomar.vercel.app/" target="_blank">Nicky Tomar</a>
 </h2>
 
-
-
-<br/>
-
-
-
-
 ## 👋 About Me
 
 Hi, I’m **Nicky Tomar**, a **Software Engineer** with **4 years of experience in React Native development**.  
