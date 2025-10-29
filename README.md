@@ -1,7 +1,8 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Nicky tomar</a>
+  <a href="https://nicky-tomar.vercel.app/" target="_blank">Nicky Tomar</a>
 </h2>
+
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
 </div>
@@ -13,64 +14,138 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/nickytomar/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/nickytomar/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/nickytomar/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/nickytomar/Portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
+---
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+## 👋 About Me
 
-## Built With
+Hi, I’m **Nicky Tomar**, a **Software Engineer** with **4 years of experience in React Native development**.  
+I specialize in building **scalable, user-centric mobile and web applications** with smooth UI and robust backend integration.
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+Currently working at **DigiMonk Technologies (CMMI Level 4 Company)**, I’ve led projects like **GRAJ** and **Fincart Financial Planners**, implementing:
+- Real-time chat systems
+- Google Maps & Firebase integrations
+- Push notifications
+- App deployment for both Android and iOS platforms
 
-This project was built using these technologies.
+I’m passionate about **building modern digital experiences**, from idea to App Store deployment — blending creativity with performance-driven code.
 
+---
+
+## 🚀 Tech Stack
+
+**Frontend / Mobile:**
+- React Native (Expo & CLI)
+- React.js
+- TypeScript
+- Redux Toolkit
+- Tailwind CSS / Styled Components
+
+**Backend / Cloud:**
+- Node.js
+- Express.js
+- Firebase
+- REST APIs
+- MongoDB
+
+**Tools & Others:**
+- Git & GitHub
+- Android Studio & Xcode
+- Google Maps API
+- Stripe Integration
+- Marzipano (360° Virtual Tours)
+- VS Code
+- Vercel
+
+---
+
+## 💼 Experience
+
+### 🏢 DigiMonk Technologies (CMMI Level 4 Company)
+**React Native Developer | Mar 2024 – Present | Noida, India**
+
+- Led the development of **GRAJ**, a sales communication app with real-time chat and push notifications.  
+- Integrated **Google Maps API** and **Redux**, improving performance and reducing load times.  
+- Deployed apps on **Play Store** and **App Store**, ensuring a smooth beta and production release.
+
+---
+
+### 💡 Fincart Financial Planners
+**Junior Software Engineer | Oct 2022 – Mar 2024 | Noida, India**
+
+- Developed a **KYC system** to streamline client onboarding.  
+- Implemented **digital gold patching**, improving engagement by 25%.  
+- Enhanced app performance with code optimization and debugging.
+
+---
+
+### 🧩 Wipro
+**Trainee | May 2022 – Sep 2022 | Gwalior, India**
+
+- Completed Wipro TalentNext training on **Java and J2EE**.
+- Strengthened fundamentals in **HTML**, **ECMAScript**, and software design principles.
+
+---
+
+## 🎓 Education
+
+**🎓 Master of Computer Applications (MCA)**  
+Rustamji Institute of Technology (RJIT) - BSF
+
+**🎓 Bachelor of Computer Applications (BCA)**  
+Prestige Institute of Management & Research, Gwalior
+
+---
+
+## 🧠 Skills
+
+- Mobile Development (Android & iOS)
+- React Native & React.js
+- TypeScript & JavaScript (ES6+)
+- Firebase & Redux
+- App Deployment & Debugging
+- Google Maps API Integration
+- API Integration & Optimization
+
+---
+
+## ⚙️ Built With
+
+My personal portfolio [nicky-tomar.vercel.app](https://nicky-tomar.vercel.app/)  
+showcases my experience, projects, and achievements in mobile and web app development.
+
+**Technologies Used:**
 - React.js
 - Node.js
 - Express.js
 - CSS3
-- VsCode
 - Vercel
+- VS Code
 
-## Features
+---
 
-**📖 Multi-Page Layout**
+## ✨ Features
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+- **📖 Multi-Page Layout**
+- **🎨 Fully Responsive Design**
+- **⚡ Built with React-Bootstrap & CSS**
+- **🚀 Easy to Customize & Deploy**
 
-**📱 Fully Responsive**
+---
 
-## Getting Started
+## 🛠 Installation & Setup
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
-
-## 🛠 Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/nickytomar/Portfolio.git
